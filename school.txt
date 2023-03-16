@@ -1,0 +1,11 @@
+Hello welcome to my school 
+
+Name         birth day          email
+----         ---------         -----
+priyanshu   24/10/2003         priyanshu226@gmail.com
+
+om          25/03/2003          omlimdi262@gmail.com
+
+krips       26/04/2003             kripsjaviya283@gmail.com
+
+ram         27/05/2003          rampatel23gamil.com
